@@ -1,8 +1,0 @@
-<component name="ArtifactManager">
-  <artifact type="jar" name="MMOTD:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/MMOTD_jar</output-path>
-    <root id="archive" name="MMOTD.jar">
-      <element id="module-output" name="MMOTD" />
-    </root>
-  </artifact>
-</component>
